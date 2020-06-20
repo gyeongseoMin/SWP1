@@ -1,2 +1,3 @@
-20203060 gyeongseo
-Kookmin Univ.SW
+20203060,gyeongseo
+software
+Kookmin Univ.
